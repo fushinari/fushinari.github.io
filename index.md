@@ -27,6 +27,6 @@ I have a lot of Python scripts that I wrote to make my Linux usage smoother, but
 
 ### Contact me
 You can contact me through:
- - (Telegram)[https://t.me/fushinari]
- - (E-mail)[mailto:lastweakness@tuta.io] 
+ - [Telegram](https://t.me/fushinari)
+ - [E-mail](mailto:lastweakness@tuta.io)
  - Discord: MaloBoi#5588
