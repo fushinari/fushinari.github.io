@@ -2,7 +2,7 @@
 
 I'm a guy who enjoys writing code, but doesn't know how to do it well enough just yet. So, any and all projects on my Github will be my experiments with how to do things the right way. They might be simple stuff, but they do work well enough for their purposes.
 
-### [Reo](https://www.github.com/lastweakness/reo)
+### [Reo](https://lastweakness.github.io/reo)
 
 Reo is a dictionary application created using Python and Gtk3. I call it an application, but really, it's just a simple script and the UI is done with Glade. It uses dictd and espeak-ng through subprocess to get definitions and pronunciations respectively. As you can probably understand, it doesn't try to be much. But it's made with the Linux desktop in mind and so, does work pretty well. The only actually interesting thing is the ways it parses the console output.
 
