@@ -1,4 +1,4 @@
-## What is Reo?
+## Reo
 
 Reo is a dictionary application made using Python and Gtk+ 3. It has some simple features but nothing too fancy.
 
