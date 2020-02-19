@@ -24,8 +24,8 @@ Light Mode                                                   |  Dark Mode
 - DICT official client and server (dictd and dict, they may or may not be in separate packages depending on the Linuxte distribution)
 - WordNet 3.1 or 3.0 database for dictd (dict-wn)
 - Python 3
-- Python GObject
-- GTK 3.24+
+- Python GObject or PyQt5
+- GTK 3.24+ or Qt 5
 - eSpeak-ng (For pronunciations and audio)
 
 ## Status
@@ -36,7 +36,7 @@ But this also means that while I did want it to be more advanced at one point, I
 
 ## Qt GUI
 
-There is now a Qt GUI that uses PyQt5. It's alpha software at this point and has a lot of missing functionality. `reo-qt` should be the command to launch the Qt5 UI.
+There is now a Qt GUI that uses PyQt5. It can be launched by running `reo-qt`. It has nearly all the important functionality of the GTK version right now except the ability to toggle the text colors and custom definitions. So, it's almost feature complete but still needs some work. Live search can be enabled with the `-l` command-line parameter and debugging mode (verbosity) can be enabled with the `-v` parameter.
 
 ### How Reo came to exist
 
